@@ -1,0 +1,11 @@
+[ 0.173  0.495  0.415 0.491]
+Expansion	Expansion
+Comparison	Expansion
+Expansion	Expansion
+Temporal	Expansion
+Temporal	Expansion
+Expansion	Expansion
+Temporal	Expansion
+Temporal	Expansion
+Temporal	Comparison
+Expansion	Expansion
