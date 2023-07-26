@@ -1,4 +1,3 @@
-"""Sadaf Khan, LING571, HW9, 12/13/2021. Program that performs coherence relation sense classification."""
 import os
 import sys
 import json
