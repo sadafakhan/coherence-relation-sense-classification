@@ -2,7 +2,7 @@
 ```coherence-relation-sense-classification``` performs coherence relation sense classification by training a classifier on Glove embedding vectors.
 
 Args: 
-* ```glove_embedding_file```: path to file containing Glove embeddings 
+* ```glove_embedding_file```: path to file containing Glove embeddings. The file is too large to upload to github; you can find it here: https://www.kaggle.com/datasets/watts2/glove6b50dtxt
 * ```<relation_training_data_file>```: path to file containing json-formatted training data
 * ```<relation_testing_data_file>```: path to file containing json-formatted testing data
 
